@@ -6,3 +6,11 @@
 #break {
 	height: 50px;
 }
+
+#facebook {
+	width: 500px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
